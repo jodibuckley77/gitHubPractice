@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MAVEN TESTING">
+	<test name="Testing some cases">
+		<classes>
+			<class name="com.google.search.SearchTest"></class>
+		</classes>
+	</test>
+</suite>
