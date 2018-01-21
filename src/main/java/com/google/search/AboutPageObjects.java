@@ -30,7 +30,7 @@ public class AboutPageObjects {
 	}
 	
 	public static WebElement Tab_OurProducts(WebDriver driver){
-		element = GenericMethods.getElement(driver, "Our productss", "linktext");
+		element = GenericMethods.getElement(driver, "Our products", "linktext");
 		return element;
 	}
 
